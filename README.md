@@ -16,5 +16,7 @@ guess matches the target exactly.
 
 To run this program in Grok, load the files and run the game loop using the
 following ghci commands,
+```
 :l Main
 main
+```
